@@ -1,0 +1,11 @@
+# Arduino / STM32duino build output
+build/
+*.elf
+*.map
+*.hex
+*.bin
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
